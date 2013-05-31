@@ -12,7 +12,7 @@ examples of how to capture clicks are available in the markup.
 ==================================
 #####For Open Source Projects
 
-If you are developing and distributing open source applications under the GPL License, then you are free to use Postworthy under the GPL License.
+If you are developing and distributing open source applications under the GPL License, then you are free to use BodyDiagrams under the GPL License.
 <a href="http://www.gnu.org/licenses/gpl-faq.html">GPL FAQ</a>
 
 #####Commercial, Enterprise and Government Projects
